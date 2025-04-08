@@ -4,7 +4,7 @@
 ```yum install python3-pip```<br/><br/>
 ```pip3 install flask```
 ## 2.example
-```from flask import Flask, jsonify
+from flask import Flask, jsonify
 app = Flask(__name__)
 
 @app.route('/healthcheck', methods=['GET'])
