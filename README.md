@@ -2,7 +2,7 @@
 
 ## 1.flask
 ```yum install python3-pip
-pip3 install flask```
+```pip3 install flask```
 ## 2.example
 
 ## 3.result
